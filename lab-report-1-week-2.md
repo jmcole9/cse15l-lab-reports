@@ -1,1 +1,1 @@
-![Image](https://github.com/jmcole9/cse15l-lab-reports/blob/main/screenshot.png)
+![Image](screenshot.png)

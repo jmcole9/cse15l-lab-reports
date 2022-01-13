@@ -1,1 +1,1 @@
-![Image](file:///C:/Users/james/OneDrive/Pictures/Screenshot%202022-01-05%20152424.png)
+![Image](https://github.com/jmcole9/cse15l-lab-reports/blob/main/screenshot.png)

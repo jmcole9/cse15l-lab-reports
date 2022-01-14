@@ -2,7 +2,7 @@
 
 ## Installing VScode
 
-To get started we need to download and install vscode. To do this use the following [link](https://code.visualstudio.com/) and follow the directions for installation. Open the application and it should look something like the following image.
+To get started we need to download and install vscode. To do this use the following [link](https://code.visualstudio.com/) and follow the directions for installation. Open the application which should look something like the following image.
 
 ![Image](screenshot.png)
 

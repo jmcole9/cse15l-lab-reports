@@ -1,3 +1,4 @@
+# Lab Report 1: Week 2 
 # Tutorial: How to Log into a course-specific account on ieng6
 
 ## Installing VScode

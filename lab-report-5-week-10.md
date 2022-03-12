@@ -49,6 +49,8 @@ Both implementations are incorrect as our implementation gives the output [</my 
 
 The problem with both implementations is that the code does not acknowledge when the links have HTML tags and thus have different rules. Thus, the code needs to be changed so that it checks if the link starts with "</" and ends with ">" and if it does, then it adds the substring that is between these characters. This should be included as a different if statement added after the following.
 
+![Image](noalarms.png)
+
 
 
 
